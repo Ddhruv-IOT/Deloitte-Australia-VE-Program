@@ -43,3 +43,50 @@ The final task involves editing an Excel file called "Equality Table.xlsx" that 
 
 ### [The Excel Formula](https://github.com/Ddhruv-IOT/Deloitte-Australia-VE-Program/blob/main/5%20-%20Forensic%20Tech%20Task/Excel_Formula.txt)
 
+
+## Tools and Technologies Used:
+- Git Bash
+- Python
+- Jupyter Notebook
+- VS Code
+- Microsoft Word Document
+- Tableau Community Edition
+- Sublime Text 3
+- Microsft Excel
+- Google Chrome Web Browser
+- Notepad 
+
+## OS Used:
+- Windows 10
+
+## Key Learnings: 
+
+1. Processing employee compensation data and generating reports: The task involved handling employee compensation data and generating an Excel file, "Equality Table.xlsx," with relevant columns for analysis.
+
+2. Classifying equality scores: The task required creating a new column, "Equality class," to classify the equality scores into three types: Fair, Unfair, and Highly Discriminative. This classification was based on predefined ranges and criteria.
+
+3. Applying data classification logic: By examining the equality scores, we applied logical conditions to determine the appropriate classification for each score. This exercise helped us understand the process of categorizing data based on specific criteria.
+
+4. Enhancing data analysis skills: Through this task, we further developed our data analysis skills by working with real-world data and applying classification techniques. This experience allowed us to gain hands-on knowledge of manipulating data within an Excel file.
+
+5. Practicing attention to detail: The task emphasized the importance of careful attention to detail, ensuring accurate classification based on the provided criteria. It reinforced the need for precision in data analysis tasks.
+
+6. Documenting and submitting work: Completing the task involved ensuring accurate edits in the Excel file and submitting the updated version as per the given instructions. This reinforced the significance of clear documentation and proper file management in professional settings.
+
+These key learnings contribute to enhancing data analysis capabilities, reinforcing our understanding of classification techniques, and reinforcing the importance of accuracy and attention to detail in handling data.
+
+## [LinkedIn Post Link](https://www.linkedin.com/posts/ddhruv-arora_technology-cybersecurity-opportunity-activity-7038518667038310400-84iw?utm_source=share&utm_medium=member_desktop)
+***Do Give a like👍 and Comment 💬.***
+
+## The Certificate 🏆🏆🏆
+
+![certificate](https://github.com/Ddhruv-IOT/Deloitte-Australia-VE-Program/assets/54676859/e741d001-b44b-4f92-b182-68b58d0fead5)
+
+# Thank you 🙏
+- Thank you, for your time and attention. I hope the information provided has been valuable and I appreciate your engagement with the content.
+- All suggestions are warmly welcomed.
+
+
+
+
+
