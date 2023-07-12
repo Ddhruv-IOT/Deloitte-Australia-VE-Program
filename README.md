@@ -24,3 +24,22 @@ The task involves completing a programming project on repl.it. The steps include
 The task involves analyzing telemetry data using Tableau software. To complete the task, download and install Tableau, import the provided daikibo-telemetry-data.json.zip file, and create calculated measures for unhealthy statuses. Create bar charts for downtime per factory and downtime per device type. Then, create a dashboard with these charts, set the first chart as a filter, and select the factory with the highest downtime. Take a screenshot of the dashboard and submit it as the task completed. A step-by-step Task Guide PDF is available for assistance.
 
 ### [Designed Dashboard](https://public.tableau.com/app/profile/ddhruv.arora/viz/DeloitteTask2DataVisualization/Dashboard1?publish=yes)
+
+## Task - 3: Prepare a Software Development Proposal
+
+The development proposal aims to create a private dashboard displaying the health status of nine machines in each of Daikibo's four factories, accessible only within the client's Intranet. The dashboard will synchronize authentication with the internal authentication server, allowing users to leverage their company-wide accounts. The proposal includes an overview, scope, estimate of man-hours for development, testing, and integration, project timeline, and assurance of continuous product support. Use an office package like MS Office or Libre Office to create the proposal document using the provided template.
+
+### [My Proposal Sample](https://github.com/Ddhruv-IOT/Deloitte-Australia-VE-Program/blob/main/3%20-%20Software%20Dev%20Task/Task%203%20Software%20Development%20Proposal%20by%20Ddhruv%20Arora.docx)
+
+## Task - 4: Identify the security issue which led to a leak of private company information.
+
+In this task, as part of the Cyber Security team, your objective is to investigate a potential breach. You need to determine if the breach could have occurred directly from an external attacker without accessing Daikibo's VPN. Analyze the web_requests.log file during the specific period when the alleged attack occurred. Look for suspicious requests, particularly longer sequences of user requests following the order of Login, dashboard page resource requests, and API requests for machine statuses. Pay attention to automated requests occurring at precise intervals and record the user's ID associated with such requests. The log file structure consists of blocks representing unique IP addresses, their corresponding requests sorted by time, and static IP addresses from Daikibo's internal network.
+
+### [Solution to Quiz](https://github.com/Ddhruv-IOT/Deloitte-Australia-VE-Program/blob/main/4%20-%20Cyber%20Security%20Task/Quiz_Answers.txt)
+
+## Task - 5: Help your team to complete an investigation into unfair pay.
+
+The final task involves editing an Excel file called "Equality Table.xlsx" that contains three columns: Factory, Job Role, and Equality Score. The objective is to create a fourth column called "Equality class" to classify the equality scores into three types: Fair (within the range of +-10), Unfair (less than -10 and greater than +10), and Highly Discriminative (less than -20 and greater than +20). Examples of the classification are provided. After completing the task, upload the edited version of the file.
+
+### [The Excel Formula](https://github.com/Ddhruv-IOT/Deloitte-Australia-VE-Program/blob/main/5%20-%20Forensic%20Tech%20Task/Excel_Formula.txt)
+
